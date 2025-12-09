@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Calling you",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-09T19:44:07.966528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someone Else Calling You Baby",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Someone_Else_Calling_You_Baby_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Calling You",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/02_Calling_You_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Something Is Calling You (First Sessions Demo)",
+      "artist": "Norah Jones",
+      "has_synced": false,
+      "path": "select/03_Something_Is_Calling_You_(First_Sessions_Demo)_Norah_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Something Is Calling You (First Sessions Outtake / Tabla Version)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/04_Something_Is_Calling_You_(First_Sessions_Outtake___Tabla_Version)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Something Is Calling You (First Sessions outtake ⁄ tabla version)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/05_Something_Is_Calling_You_(First_Sessions_outtake_⁄_tabla_version)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Not Calling You A Liar",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/06_I'm_Not_Calling_You_A_Liar_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Calling You",
+      "artist": "Paul Young",
+      "has_synced": false,
+      "path": "select/07_Calling_You_Paul_Young.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Calling You",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/08_I'm_Calling_You_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I?m Not Calling You A Liar",
+      "artist": "Florence + the Machine",
+      "has_synced": true,
+      "path": "select/09_I_m_Not_Calling_You_A_Liar_Florence_+_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't You Hear Me Calling You",
+      "artist": "Fats Domino",
+      "has_synced": false,
+      "path": "select/10_Don't_You_Hear_Me_Calling_You_Fats_Domino.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Calling You",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/11_Calling_You_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Calling You",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/12_Calling_You_Richard_Marx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Calling You",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/13_Calling_You_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Calling You [live]",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/14_Calling_You_[live]_George_Michael.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Calling you",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_Calling_you_MY_FIRST_STORY.txt"
+    }
+  ]
+}
