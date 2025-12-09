@@ -1,0 +1,63 @@
+# MY FIRST STORY – Calling you
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I didn't know why I came so far
+Was I blind or did I know this
+wrong path
+Ahead of my way you walked aways
+That day I just go so sick of it
+run away run away from the day I
+gave up can't see you no more!
+Are you ready Go!!Face your
+desire!
+What will I see?
+Today I wont let you down!
+Are you ready Go!!Face my
+weekness!
+I see your smiling face.
+Tomorrow is a brand new day you
+know!
+You thought this was what you'd
+always want
+Or is this just only what you
+wanted to want?
+Lying to yourself consistency
+But you know that can take you
+no far
+run away run away from the day I
+gave up can't see you no more!
+Are you ready Go!!Face your
+desire!
+What will I see?
+Today I wont let you down!
+Are you ready Go!!Face my
+weekness!
+I see your smiling face.
+Tomorrow is a brand new day you
+know!
+Now the time!No more cry!
+Get up now forget about that
+sight!
+I walk my way!
+I walk my day!
+Not comparing nor denying
+You walk you way! You walk you
+day!
+yeah!go you own new way, will
+take you far away!!
+I'm here that's right
+This is where I stand
+I stand alone.
+Don't look back just stareing
+the way!
+Are you ready Go!!Face your
+desire!
+What will I see?
+that could be picture of you
+Are you ready Go!!Face my
+weekness!
+I stop the call, when you find
+the precious thing.one day
+```
